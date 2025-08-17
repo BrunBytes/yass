@@ -1,8 +1,8 @@
-#The YASS License:
+# The YASS License:
 
 **This software is distributed with absolutely no warranty.**
 
-##Double Freed Software
+## Double Freed Software
 
 This software is released with the ultimate goal of preserving the **double freed-oms**. These are as follows:
 
