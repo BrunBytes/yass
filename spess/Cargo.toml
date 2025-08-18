@@ -6,3 +6,6 @@ edition = "2021"
 [dependencies]
 thiserror = "2.0.15"
 macroquad = "0.4"
+uflow = "0.7"
+bumpalo = "3.19"
+mlua = { version = "0.11", features = ["lua54", "vendored"] }
