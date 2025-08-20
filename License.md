@@ -2,21 +2,18 @@
 
 **This software is distributed with absolutely no warranty.**
 
+## Motivation
+
+Writing software should be a pleasure, and sadly that has been lost in recent times. That beautiful cleverness has been lost to overbearing complexity through encapsulation, or too much information low level nonsense. It should be a pleasure to read and write, made with care and a love for solving real problems. In order to satisfy these constraints software must be free to read, free to write and free to execute.  
+
 ## Double Freed Software
 
 This software is released with the ultimate goal of preserving the **double freed-oms**. These are as follows:
 
-1. **Free as in FREE BEER!!** - The software can never be sold for profit. You can however ask for financial support seperately to develop the software (e.g a Patreon). This can never allow for in-game content or special perks related to the software. 
-2. **Free as in free speech (less exciting!)** - The software must have the source code available, free to modify and distribute as you desire. The software must also not contain any form of DRM. (sorry steam users!)
+1. **Free as in FREE BEER!!** - The software can never be sold for profit.
+2. **Free as in free speech (less exciting!)** - The software must have the source code available, free to modify and distribute as you desire.
 
-These are the double free-doms, as decreed. **This License must be present in any derived software, either with partial files or the complete program** - *It's copyleft baby*.
+You are however free to accept payment/sponsorship to continue developing the software - just not allowed to charge for the source code or executables standalone. This license is copyleft and all derived software will share the same license.
 
-## Extra Clarifications
+This makes no comment on hosting this software as a service - you are free to charge for connections to that in order to cover pratical means such as server costs. However because all the software is double-freed someone can easily run their own service. 
 
-Since I'm not a lawyer, here's a couple of other extra edge cases to cover me:
-
-1. I, **the original publisher**, are allowed to modify this license however I so choose. This is referred to as the **Benevolent Dictator For Life Priviledge**. I can choose a successor for this right in my passing or retirement, in any manner of my choosing.
-2. If you use this software to provide a service (e.g hosting a game server) - you most certainly have the right to refuse any bad actors or connectors the service of playing your game. Ban all the idiots you desire.
-3. This is a software only license, it does not apply to game assets like art etc. Probably creative commons attribution non-commercial would be the best choice for those.
-
-Cheers all, enjoy your free Spessmans. :)

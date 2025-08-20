@@ -2,6 +2,10 @@
 
 This document stores all my musings as the project progresses. To-Do tools are a joke so this is a lot better
 
+## RESEARCH NOTES
+
+I think Bjarne had it wrong with *Zero Cost Abstractions* - it's a pipe dream. It's not concievable to achieve. Function pointers are the devil that will sink us all. Algebraic data types are what he should've focused on instead, AKA *Tagged Unions*. However I have alternative proposal I'd like to explore in this project, namely the principle of *Zero Cost Expressions*. This is the intention that we have a program backed up and enforced in correctness through a rich type system, that does not sacrifice runtime performance. The zero cost is transferred between both the programmer and the system itself. This is superior to both the OOP of modern software design, as well as not relying on the fairly untouched academic theory of the 1960s that powers most performant games that is an abosolute nightmare to use. It all sounds fairly abstract right now, but I hope this project will showcase what I'm talking about and convince us there's a way to be fast and beautiful. 
+
 ## PRE_ALPHA
 
 For us to be considerd Pre-Alpha we need these systems to be functional
