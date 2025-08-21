@@ -7,6 +7,5 @@ edition = "2021"
 thiserror = "2.0.15"
 uflow = "0.7"
 bumpalo = "3.19"
-mlua = { version = "0.11", features = ["lua54", "vendored"] }
 miniquad = "0.4"
 
