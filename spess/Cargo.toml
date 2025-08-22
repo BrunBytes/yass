@@ -4,8 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-thiserror = "2.0.15"
-uflow = "0.7"
+#thiserror = "2.0.15"
+#uflow = "0.7"
 bumpalo = "3.19"
 miniquad = "0.4"
 nanoserde = "0.2"
